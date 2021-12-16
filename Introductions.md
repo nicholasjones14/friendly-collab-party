@@ -9,7 +9,7 @@ This is a repo for our awesome collaboration workshop :tada:
 * Ross | Hi
 * Aditi
 * Rebecca | hi
-* 
+* Everlyn | penguin
 * 
 * 
 * 
