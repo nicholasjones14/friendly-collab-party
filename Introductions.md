@@ -7,8 +7,7 @@ This is a repo for our awesome collaboration workshop :tada:
 >name|write your favourite way to say hello
 * Sophia | hello
 * Ross | Hi
-* 
-* 
+* Aditi
 * Rebecca | hi
 * 
 * 
