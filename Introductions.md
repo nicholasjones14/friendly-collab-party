@@ -10,6 +10,7 @@ This is a repo for our awesome collaboration workshop :tada:
 * Aditi
 * Rebecca | hi
 * Everlyn | penguin
+* Priya, Hello
 * 
 * 
 * 
@@ -28,5 +29,5 @@ This is a repo for our awesome collaboration workshop :tada:
 * 
 * 
 * 
-* 
+
 
