@@ -17,7 +17,7 @@ GitHub also provides access control (who can access your files, who can read or 
 
 ### For learners
 
-If you are a learner, you can **[start Here](/lessons/1-collaborative-documentation.md)**.
+If you are a learner, you can **[start Here](https://malvikasharan.github.io/developing_collaborative_document/lessons/1-collaborative-documentation.html)**.
 
 Please, use this **[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)** to guide your learning pace.
 
