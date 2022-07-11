@@ -11,7 +11,7 @@ This is a repo for our awesome collaboration workshop :tada:
 * Rebecca | hi
 * Everlyn | penguin
 * Priya, Hello
-* 
+* Eirini | geia! (Greek)
 * 
 * 
 * 
