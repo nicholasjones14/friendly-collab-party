@@ -5,7 +5,8 @@
 
 **References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and Kirstie Whitaker's presentation on [Friendly GitHub Intro](https://github.com/KirstieJane/friendly-github-intro):**
 
-*Please use this [presentation](https://docs.google.com/presentation/d/1r4_bFMSKVKzWJ-5kJr9iwplpTrbCWLxpviYGWOXJIhk/edit#slide=id.ge33bccbef9_0_18) to guide your workshop*
+* This workshop was run in 2021 using this [presentation](https://docs.google.com/presentation/d/1r4_bFMSKVKzWJ-5kJr9iwplpTrbCWLxpviYGWOXJIhk/edit#slide=id.ge33bccbef9_0_18) and has been revised with new material for 2022. 
+* If you are part of the **Pharmaco-Epi Group**, please refer to [this presentation](https://docs.google.com/presentation/d/1kC3r1xqU-8aT-bkhPm3F5SHz_FJxQPwz3UAy609xN7I/edit?usp=sharing).
 
 ### About this repository
 
@@ -16,8 +17,6 @@ GitHub provides a Web-based graphical interface to maintain and share your proje
 GitHub also provides access control (who can access your files, who can read or edit them) and several collaboration features, such as wikis and basic task management tools for every project.
 
 ### For learners
-
-If you are a learner, you can **[start Here](https://malvikasharan.github.io/developing_collaborative_document/lessons/1-collaborative-documentation.html)**.
 
 Please, use this **[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)** to guide your learning pace.
 
