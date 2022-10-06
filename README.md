@@ -5,8 +5,10 @@
 
 **References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and Kirstie Whitaker's presentation on [Friendly GitHub Intro](https://github.com/KirstieJane/friendly-github-intro):**
 
-* This workshop was run in 2021 using this [presentation](https://docs.google.com/presentation/d/1r4_bFMSKVKzWJ-5kJr9iwplpTrbCWLxpviYGWOXJIhk/edit#slide=id.ge33bccbef9_0_18) and has been revised with new material for 2022. 
-* If you are part of the **Pharmaco-Epi Group**, please refer to [this presentation](https://docs.google.com/presentation/d/1kC3r1xqU-8aT-bkhPm3F5SHz_FJxQPwz3UAy609xN7I/edit?usp=sharing).
+* This workshop was first run in 2021 using this [presentation](https://docs.google.com/presentation/d/1r4_bFMSKVKzWJ-5kJr9iwplpTrbCWLxpviYGWOXJIhk/edit#slide=id.ge33bccbef9_0_18) and has been revised with new material for 2022. Please find your specific workshop from the list below which will link directly to the slides that were used in your session.
+   * If you are part of the **Pharmaco-Epi Group**, please refer to [this presentation](https://docs.google.com/presentation/d/1kC3r1xqU-8aT-bkhPm3F5SHz_FJxQPwz3UAy609xN7I/edit?usp=sharing).
+   * If you were at CarpentriesCon in 2022 learning how to Git Good, your presentation is [here](https://docs.google.com/presentation/d/14KdDH-EFWffmBBfoAzg0VfjIb89-oEnu/edit#slide=id.g142ff236b53_0_97)
+   * If you attened the Effective collaboration in a distributed world Workshop from Tools, Practices and Systems, your presentation is [here](https://docs.google.com/presentation/d/1vEbbWqZKhE12gte1HdO0edhzuMO-zgTrR8hzGXoNwx0/edit#slide=id.g1404f6c031e_2_152).
 
 ### About this repository
 
