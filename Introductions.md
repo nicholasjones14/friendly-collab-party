@@ -1,10 +1,10 @@
-# friendly-collab-party
+# Friendly Collab Party
 
-## Hello and Introduction 
-This is a repo for our awesome collaboration workshop :tada:
+## About this file. 
+This directory is for our awesome collaboration workshop :tada:. Add your name to the list of folk who have taken this workshop before so we can ✨**collaborate**✨!
 
-## Icebreaker
->name|write your favourite way to say hello
+## Introductions
+> name | write your favourite way to say hello, be as creative as possible! 👋
 * Sophia | hello
 * Ross | Hi
 * Aditi
@@ -19,7 +19,7 @@ This is a repo for our awesome collaboration workshop :tada:
 
 ## This is a document section 
 * Sophia | This is an introductory sentence. When I write on a piece of the document I'll add things to this bullet point. This means that I need to clearly communicate to my colaborators when they should...
-* Ross | This is indeed a sentence i am currently writing, yes
+* Ross | This is indeed a sentence I am currently writing, yes
 * 
 * 
 * 
