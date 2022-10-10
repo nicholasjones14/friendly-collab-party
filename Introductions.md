@@ -5,7 +5,7 @@ This directory is for our awesome collaboration workshop :tada:. Add your name t
 
 ## Introductions
 > name | write your favourite way to say hello, be as creative as possible! 👋
-* Sophia | hello
+* Sophia | Hello
 * Ross | Hi
 * Aditi
 * Rebecca | hi
