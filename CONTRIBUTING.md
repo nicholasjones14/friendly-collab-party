@@ -1,10 +1,10 @@
 # How to Contribute 
 
-Thank you very much for considering to contribute to this repository. :tada:
+Thank you very much for contributing to this repository. :tada:
 
-This learning resource is built on others work and serves as a collaborative project.
+This learning resource is built upon others' work and serves as a collaborative project. Please refer to the [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/), Kirstie Whitaker's presentation on [Friendly GitHub Intro](https://github.com/KirstieJane/friendly-github-intro), Malvika Sharan's [Developing Collaborative Document](https://github.com/malvikasharan/developing_collaborative_document/tree/v1.0), and [The Turing Way's Collaboration Workshop](https://doi.org/10.5281/zenodo.5070361). 
 
-We welcome all your suggestions and contributions.
+We welcome all suggestions and contributions.
 You can report errors, typos, ideas for expanding this material or new content.
 
 This repository is available under [CC-BY-NC License](/LICENSE), so you are welcome to use, reuse, remix, share and build upon the existing materials for non-commercial projects.
