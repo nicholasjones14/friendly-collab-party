@@ -13,7 +13,7 @@ References used in this course are taken from [Mozilla Science Lab's Study Group
 
 ### About this repository
 
-This repository offers learning material for a practical session on "Developing Collaborative document", which will introduce you to [GitHub](https://github.com/) as a tool for creating documents online with your collaborators.
+This repository offers learning material for a practical session on "Developing Collaborative Documents", which will introduce you to [GitHub](https://github.com/) as a tool for creating documents online with your collaborators.
 
 GitHub provides a Web-based graphical interface to maintain and share your projects (repositories) and maintain the different versions of your documents with information such as which files change, what changed, who changed them, and why those updates were made. 
 
