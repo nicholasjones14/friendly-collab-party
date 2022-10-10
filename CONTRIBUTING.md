@@ -25,7 +25,6 @@ You can:
   * Create a pull request with the suggested changes ([read details for open a Pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request))
   
 ## If you want to contribute new content
----
  - Open an issue describing your intended contribution. If you open an issue early it will give others the opprotunity to provide feedback, address concerns, and add any missing information. 
  - Create a pull request with the proposed contributions. A pull request doesn’t have to represent finished work. You can mark it as a “WIP” (Work in Progress) in the subject line and add more commits later.
  
